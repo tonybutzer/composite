@@ -1,5 +1,5 @@
 ## Todo
-1. git clone on pangeo.chs
+1. `git clone on pangeo.chs`
 2. get a bucket on pangeo from the pangeo gods
 3. save scottyhq
 4. create a 20-sentinel directory and a 00-train
