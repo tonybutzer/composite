@@ -1,0 +1,32 @@
+
+--- 
+Title: "Cloud Based Sentinel COGs"
+Today: 2-16-2021
+Topics: 
+  AOI: Maine
+  AWS_Document: "https://registry.opendata.aws/sentinel-2-l2a-cogs/"
+  City: Augusta
+  Data_Tier: L2A
+  Projection: UTM
+  Purpose: "Class Example"
+  Sandbox: pangeo.chs.usgs.gov
+  Science_Application: Compositing
+  Sensor: Sentinel
+  Status: "Exploration early R&D"
+  Subtopics: 
+    - Browse
+    - Tiles
+    - Clouds
+    - geojson
+    - google_maps
+  Claudia_Topics:
+    - vectors
+    - map_projections
+  Logan_Topics:
+    - HLS_1.5
+    - cmr_lpdaac
+    - GDAL_hell
+    - pangeo_startup_aws_autoscaling_k8s_pods_docker
+  Homework: "Register to use Pangeo -- Start Using Git or gitLab"
+  Git_Repo: https://github.com/tonybutzer/composite
+  Simple_Notebook: 99-yaml-example
